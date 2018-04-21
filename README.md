@@ -1,4 +1,4 @@
-SF Licence Generator - API
+Diplomado - API
 ==================
 Installing Node.js
 ------------------
